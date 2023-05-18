@@ -20,8 +20,14 @@ class TableViewController: UITableViewController {
     var arrayPerson = [Person(name: "Ted", surname: "Mosby", imagename: "ted"), Person(name: "Barney", surname: "Stinson", imagename: "barney"), Person(name: "Lily", surname: "Aldrins", imagename: "lily"),
                        Person(name: "Marshall", surname: "Esriksen", imagename: "marshall"),
                        Person(name: "Robin", surname: "Scherbatsky", imagename: "robin")
+                       
+                       
     ]
  
+    
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
